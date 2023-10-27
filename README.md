@@ -8,7 +8,7 @@ Danny Ma's 8 Week SQL Challenge Case Study #1 (The Taste of Success) - https://8
 >* Increase Membership 
 >>* With more data over time, exploring the meals people have before becoming a member can allow you to begin defining demographics of your audience and run promos tailored to incentivize customers to try the menu items most likely to lead to them becoming a member.
 
-*_Tools Used_*
+*_Complexities_*
 * CTEs (Common Table Expressions)
 * Group By Aggregates
 * Window Functions
